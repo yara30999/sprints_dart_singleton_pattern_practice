@@ -1,2 +1,10 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# 🔂 Singleton Pattern Practice
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Dart](https://img.shields.io/badge/Dart-100%25-brightgreen)
+
+A simple Dart program to practice singleton pattern.
+
+## 📋 Sample Output
+
+<img src="lib/output.png" >
